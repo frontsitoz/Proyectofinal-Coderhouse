@@ -116,6 +116,8 @@ font-size: 1.3rem;
 color:rgba(250 250 250);
 background-color:rgb(38 17 57 / 82%); }
 
+
+
 #container-general {
   display: flex;
   flex-direction: column; }
@@ -208,7 +210,7 @@ border-color: goldenrod;}
     .section-contacto .div-contacto div {
       background-color: #d4a841ab;
       padding: 40px;
-      height: 40vh;
+    
       display: flex;
       flex-direction: column;
       justify-content: center;
@@ -225,7 +227,7 @@ border-color: goldenrod;}
     background-color: #bd8a14d8;
     padding: 40px;
     border-radius: 10px;
-    width: 90vh; }
+    }
     .section-contacto .form-contacto section form {
       display: flex;
       flex-direction: column; }
@@ -254,7 +256,9 @@ border-color: goldenrod;}
       .section-contacto .form-contacto section form .botones {
         width: 100%; }
         .section-contacto .form-contacto section form .botones:hover {
-          color: #3d448ed5; }
+          color: #3d448ed5;
+         }
+         
 
 /* === INFO === */
 .info h2 {
@@ -292,7 +296,7 @@ color:white;
         top: 12px;
         height: 25px;
         width: 25px;
-        color: #444444;
+        color: #ffffff;
         border-radius: 50%;
         text-align: center;
         line-height: 25px;
@@ -307,6 +311,42 @@ color:white;
       font-weight: bold;
       background-color: rgba(255, 255, 255, 0.659);
       margin: 0px; }
+
+
+      @media (max-width: 990px) {
+        .ajuste{
+          background: rgba(51, 51, 118, 0.83);
+                text-align: center;
+                justify-content: center;
+        }
+        .tuSection{
+          display: grid;
+          grid-template-columns: 1fr;
+        }
+        .miForm{
+         display: flex;
+         justify-content: center; 
+        }
+        .section-contacto .form-contacto section {
+          background-color: #bd8a14d8;
+          padding: 40px;
+          border-radius: 10px;
+          margin: 50px;
+          }
+          #container-general #ordenar-modal .modal-carrito {
+            width: 15%;
+            align-self: center;
+            background: rgb(126, 101, 59);
+            color: white;
+            font-weight: bold;
+             font-size: 16px; 
+            border-color: goldenrod;
+        }
+      }
+
+
+
+
 
 /* ----------- SMARTPHONE ----------- */
 @media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
