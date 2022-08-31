@@ -404,6 +404,8 @@ color:white;
       font-size: 1rem;
       padding: 15px 20px 15px 10px; } }
 
+
+
 /* ----------- TABLET ----------- */
 @media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
   /*--- GENERAL ---*/
@@ -419,6 +421,9 @@ color:white;
     font-size: 1rem; }
   .div-cuadros .boxes p {
     font-size: .9rem; }
+
+
+
   /*--- PRODUCTOS ---*/
   #container-general #ordenar-modal #seleccion {
     margin: 0px; }
@@ -446,6 +451,11 @@ color:white;
         margin-bottom: 50px; }
         .section-carrito .form-carrito .resumen-carrito table {
           text-align: center; }
+
+
+
+
+
   /*--- CONTACTO ---*/
   .section-contacto {
     width: 80%;
