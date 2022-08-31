@@ -1,0 +1,229 @@
+[{
+        "id": 1,
+        "tipo": "Polo",
+        "nombre": "Polo HTML ",
+        "precio": 26.90,
+        "foto": "../media/products/poloDeHTMl2.jpg"
+    }, {
+        "id": 2,
+        "tipo": "Polo",
+        "nombre": "Polo JS",
+        "precio": 26.90,
+        "foto": "../media/products/poloJS.jpg"
+    }, {
+        "id": 3,
+        "tipo": "Polo",
+        "nombre": "Polo Python",
+        "precio": 26.90,
+        "foto": "../media/products/poloDePython.jpg"
+    }, {
+        "id": 4,
+        "tipo": "Polo",
+        "nombre": "Polo Vue JS",
+        "precio": 24,
+        "foto": "../media/products/poloDeVueJS.png"
+    }, {
+        "id": 5,
+        "tipo": "Polo",
+        "nombre": "Polo Angular",
+        "precio": 24,
+        "foto": "../media/products/poloDeAngular2.jpg"
+    }, {
+        "id": 6,
+        "tipo": "Polo",
+        "nombre": "Polo Angular version 2",
+        "precio": 26.90,
+        "foto": "../media/products/poloDeJS-Celeste.png"
+    }, {
+        "id": 7,
+        "tipo": "Polo",
+        "nombre": "Polo React",
+        "precio": 26.90,
+        "foto": "../media/products/poloDeReact.png"
+    }, {
+        "id": 8,
+        "tipo": "Polo",
+        "nombre": "Polo Sass",
+        "precio": 24.90,
+        "foto": "../media/products/poloDeSass.jpg"
+    },
+    {
+        "id": 9,
+        "tipo": "Polo",
+        "nombre": "Polo fULLSTACK",
+        "precio": 29.90,
+        "foto": "../media/products/polo fullstack.png"
+    },
+    {
+        "id": 9,
+        "tipo": "Polo",
+        "nombre": "Polo Backend",
+        "precio": 29.90,
+        "foto": "../media/products/polo-backend.jpg"
+    },
+
+    {
+        "id": 10,
+        "tipo": "Polo",
+        "nombre": "Polo C#",
+        "precio": 24.90,
+        "foto": "../media/products/polo-de-c-charp.jpg"
+    }, {
+        "id": 11,
+        "tipo": "Polo",
+        "nombre": "Polo C++",
+        "precio": 24.90,
+        "foto": "../media/products/poloDeC++.jpg"
+    }, {
+        "id": 12,
+        "tipo": "Polo",
+        "nombre": "Polo Maquetador ",
+        "precio": 22.90,
+        "foto": "../media/products/polo-de-maquetador.jpg"
+    }, {
+        "id": 13,
+        "tipo": "Polo",
+        "nombre": "Polo del Código",
+        "precio": 20.90,
+        "foto": "../media/products/polo-con-codigo.png"
+    }, {
+        "id": 14,
+        "tipo": "Polo",
+        "nombre": "Polo team frontend",
+        "precio": 20.90,
+        "foto": "../media/products/polo-team-frontend.png"
+    }, {
+        "id": 15,
+        "tipo": "Polo",
+        "nombre": "Polo Java",
+        "precio": 22.90,
+        "foto": "../media/products/polo-de-Java.jpg"
+    }, {
+        "id": 16,
+        "tipo": "Polo",
+        "nombre": "Polo Github",
+        "precio": 24.90,
+        "foto": "../media/products/poloDeGithub.jpg"
+    }, {
+        "id": 17,
+        "tipo": "Polo ",
+        "nombre": "Polo de HTML 1",
+        "precio": 29.90,
+        "foto": "../media/products/poloDeHTMl.jpg"
+    }, {
+        "id": 18,
+        "tipo": "MangaLarga",
+        "nombre": "Manga Larga JS",
+        "precio": 29.90,
+        "foto": "../media/products/mangaLargaDeJS-negra.jpg"
+    }, {
+        "id": 19,
+        "tipo": "MangaLarga",
+        "nombre": "Manga Larga de Java",
+        "precio": 29.90,
+        "foto": "../media/products/mangaLargaDeJava.jpg"
+    }, {
+        "id": 20,
+        "tipo": "Mangalarga",
+        "nombre": "Mangalarga logo developer",
+        "precio": 29.90,
+        "foto": "../media/products/manga-larga-codigo.jpg"
+    }, {
+        "id": 21,
+        "tipo": "Mangalarga",
+        "nombre": "Mangalarga HTML gris",
+        "precio": 29.90,
+        "foto": "../media/products/manga-larga-html.jpg"
+    }, {
+        "id": 22,
+        "tipo": "MangaLarga",
+        "nombre": "Manga Larga programador",
+        "precio": 29.90,
+        "foto": "../media/products/mangaLarga-programador.png"
+    }, {
+        "id": 23,
+        "tipo": "MangaLarga",
+        "nombre": "Manga Larga JS pixeleada",
+        "precio": 29.90,
+        "foto": "../media/products/mangaLargaDeJS-pixeleada.png"
+    }, {
+        "id": 24,
+        "tipo": "Polera",
+        "nombre": "Polera JS",
+        "precio": 32.90,
+        "foto": "../media/products/polera-de-Js.png"
+    }, {
+        "id": 25,
+        "tipo": "Polera",
+        "nombre": "Polera React",
+        "precio": 32.90,
+        "foto": "../media/products/poleraDeReact.jpg"
+    }, {
+        "id": 26,
+        "tipo": "Polera",
+        "nombre": "Polera Vue",
+        "precio": 29.90,
+        "foto": "../media/products/poloDeVue.png"
+    }, {
+        "id": 27,
+        "tipo": "Polera",
+        "nombre": "Polera del Informatico",
+        "precio": 29.90,
+        "foto": "../media/products/polera-de-informatico.jpg"
+    }, {
+        "id": 28,
+        "tipo": "Polera",
+        "nombre": "Polera Java",
+        "precio": 29.90,
+        "foto": "../media/products/poleraDeJAVA.jpg"
+    }, {
+        "id": 29,
+        "tipo": "Polera",
+        "nombre": "Polera de Javascript amarillo",
+        "precio": 32.90,
+        "foto": "../media/products/poleraAmarilla.png"
+    }, {
+        "id": 30,
+        "tipo": "Accesorio",
+        "nombre": "Lentes contra luz azul",
+        "precio": 345,
+        "foto": "../media/products/lentes-con-filtro-para-luz-azul.png"
+    }, 
+
+    {
+        "id": 31,
+        "tipo": "Accesorio",
+        "nombre": "Lentes contra luz azul 2X",
+        "precio": 400,
+        "foto": "../media/products/lentes-de-bloqueo-de-luz-azul.png"
+    }, 
+    {
+        "id": 32,
+        "tipo": "Accesorio",
+        "nombre": "Taza 1",
+        "precio": 15,
+        "foto": "../media/products/taza1.jpg"
+    }, 
+
+    {
+        "id": 33,
+        "tipo": "Accesorio",
+        "nombre": "Taza 2",
+        "precio": 15,
+        "foto": "../media/products/taza2.jpg"
+    },
+    {
+        "id": 34,
+        "tipo": "Accesorio",
+        "nombre": "Taza 3",
+        "precio": 12,
+        "foto": "../media/products/taza3.jpg"
+    }, 
+    {
+        "id": 35,
+        "tipo": "Accesorio",
+        "nombre": "Taza 4",
+        "precio": 12,
+        "foto": "../media/products/taza4.jpg"
+    } 
+]

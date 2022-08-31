@@ -1,0 +1,43 @@
+/* === INDEX === */
+.carrusel-index {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 40px;
+    .carousel-item{
+        img{
+            width: 20em;
+        }
+    }
+}
+
+.div-cuadros {
+    display: flex;
+    justify-content: center;
+    width: 90%;
+    margin: auto;
+
+    .boxes {
+        width: 48vh;
+        margin: 10px;
+        padding: 25px;
+        background-color: $transparencia;
+
+        &:hover {
+            transform: scale(1.1, 1.1);
+        }
+
+        h2 {
+            font-weight: bold;
+            font-size: 1.2rem;
+
+            i {
+                padding: 10px;
+            }
+        }
+
+        p {
+            margin-left: 10px;
+            font-size: 1rem
+        }
+    }
+}

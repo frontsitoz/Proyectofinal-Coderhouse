@@ -1,0 +1,286 @@
+/* ----------- SMARTPHONE ----------- */
+@media only screen and (min-device-width: 320px) and (max-device-width: 480px) {
+
+  /*--- GENERAL ---*/
+  header {
+    nav {
+
+      div {
+        align-items: flex-end;
+
+        a {
+          margin: 5px;
+        }
+      }
+    }
+  }
+
+  footer {
+    font-size: 1rem;
+
+    .footer-content {
+      flex-direction: column;
+      align-items: center;
+
+      .footer-info {
+        display: flex;
+        flex-direction: column;
+        text-align: center;
+        margin-bottom: 30px;
+      }
+    }
+  }
+
+  /*--- INDEX ---*/
+  .div-cuadros {
+    .boxes {
+      width: 55vh;
+
+      h2 {
+        font-size: 1rem;
+      }
+    }
+  }
+
+  /*--- PRODUCTOS ---*/
+  #container-general {
+    #ordenar-modal {
+      flex-direction: column;
+      justify-content: center;
+
+      #seleccion {
+        width: 40%;
+        height: 40px;
+        margin: auto;
+      }
+
+      .modal-carrito {
+        width: 45%;
+        margin-top: 30px;
+      }
+    }
+
+    #section-productos {
+      display: flex;
+      flex-direction: column;
+
+      .card-product {
+        width: 90%;
+        margin: auto;
+
+        .img-container {
+          img {
+            margin: 20px 0px;
+            width: 15em;
+          }
+        }
+
+        .info-producto {
+          .botones {
+            width: 60%;
+            font-size: .9rem;
+            padding: 2px;
+          }
+        }
+      }
+    }
+  }
+
+  /*--- CARRITO ---*/
+  .section-carrito {
+    display: flex;
+    flex-direction: column-reverse;
+    margin-right: auto;
+    margin-left: auto;
+    width: 100%;
+
+    .form-carrito {
+      margin-right: auto;
+      margin-left: auto;
+      width: 80%;
+    }
+
+    .resumen-carrito {
+      margin-right: auto;
+      margin-left: auto;
+      width: 75%;
+
+      table {
+        text-align: center;
+      }
+    }
+  }
+
+  /*--- CONTACTO ---*/
+  .section-contacto {
+    width: 100%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+
+    .div-contacto {
+      margin-top: 0px;
+      justify-content: center;
+
+      div {
+        margin-top: 20px;
+        margin-bottom: 20px;
+      }
+    }
+
+    .form-contacto {
+      margin-top: 50px;
+
+      section {
+        width: 90%;
+        margin-left: auto;
+        margin-right: auto;
+        padding: 20px;
+      }
+    }
+  }
+
+  /*--- INFO ---*/
+  .info {
+    h2 {
+      padding: 20px;
+    }
+
+    .accordion {
+      margin: 20px auto;
+
+      .accordion-body {
+        p {
+          font-size: 1rem;
+        }
+      }
+
+      .accordion-card {
+        .accordion-header {
+          span {
+            right: 5px;
+          }
+
+          h3 {
+            font-size: 1rem;
+            padding: 15px 20px 15px 10px;
+          }
+        }
+      }
+    }
+  }
+}
+
+/* ----------- TABLET ----------- */
+@media only screen and (min-device-width: 768px) and (max-device-width: 1024px) {
+
+  /*--- GENERAL ---*/
+  header {
+    nav {
+      div {
+        align-items: flex-end;
+
+        a {
+          margin: 5px;
+        }
+      }
+    }
+  }
+
+  footer {
+    .footer-content {
+      justify-content: space-around;
+      margin-bottom: 25px;
+    }
+  }
+
+  /*----INDEX----*/
+  .div-cuadros {
+    .boxes {
+      h2 {
+        font-size: 1rem;
+      }
+
+      p {
+        font-size: .9rem;
+      }
+    }
+  }
+
+
+  /*--- PRODUCTOS ---*/
+  #container-general {
+    #ordenar-modal {
+      #seleccion {
+        margin: 0px;
+      }
+    }
+
+    #section-productos {
+      width: 100%;
+    }
+
+    .botones {
+      width: 60%;
+      font-size: .9rem;
+      padding: 5px;
+    }
+  }
+
+
+  /*--- CARRITO ---*/
+  .section-carrito {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column-reverse;
+
+    .form-carrito {
+      width: 100%;
+      margin-left: auto;
+      margin-right: auto;
+
+      .resumen-carrito {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+        margin-bottom: 50px;
+
+        table {
+          text-align: center;
+        }
+      }
+    }
+  }
+
+  /*--- CONTACTO ---*/
+  .section-contacto {
+    width: 80%;
+    margin-left: auto;
+    margin-right: auto;
+    display: flex;
+    flex-direction: column;
+
+    .div-contacto {
+      width: 60%;
+      margin: auto;
+
+      div {
+        margin-top: 40px;
+        font-size: 1.1rem;
+      }
+    }
+
+    .form-contacto {
+      margin-top: 80px;
+
+      section {
+        width: 100%;
+        margin-left: auto;
+        margin-right: auto;
+      }
+    }
+  }
+}
